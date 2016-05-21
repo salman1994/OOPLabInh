@@ -67,6 +67,11 @@ class MarchingBand: protected Band
 	}
 };
 
+class soneclas{
+	int hello;
+	
+};
+
 int main()
  {
  	Band* s;
